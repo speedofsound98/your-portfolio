@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Inter, Playfair_Display } from "next/font/google";
+// import {Playfair_Display } from "next/font/google";
 import "./globals.css";
 import { EB_Garamond } from 'next/font/google';
 
@@ -9,15 +9,10 @@ const ebGaramond = EB_Garamond({
   display: 'swap',
 });
 
-const inter = Inter({
-  subsets: ["latin"],
-  variable: "--font-inter",
-});
-
-const playfair = Playfair_Display({
-  subsets: ["latin"],
-  variable: "--font-serif",
-});
+// const playfair = Playfair_Display({
+//   subsets: ["latin"],
+//   variable: "--font-serif",
+// });
 
 export const metadata: Metadata = {
   title: "Your Name – Portfolio",

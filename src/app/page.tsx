@@ -74,7 +74,7 @@ export default function Home() {
         >
           <h2 className="text-2xl font-serif mb-4">Contact</h2>
           <p className="text-lg text-gray-300">
-            Let's connect: <a href="mailto:nadav.hardof@gmail.com" className="underline">nadav.hardof@gmail.com</a>
+            { "Let's" } connect: <a href="mailto:nadav.hardof@gmail.com" className="underline">nadav.hardof@gmail.com</a>
           </p>
         </motion.div>
       </section>
