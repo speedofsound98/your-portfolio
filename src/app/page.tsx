@@ -38,8 +38,7 @@ export default function Home() {
           <h2 className="text-2xl font-serif mb-4">About</h2>
           <p className="text-gray-300 text-lg">
             I’m an Electrical Engineering and CS student passionate about Cyber Security, Hardware and AI.
-            I’ve led creative campaigns, crafted digital narratives, and worked across mediums
-            to bring brand stories to life.
+            I’m currently working on various projects outside of school.
           </p>
         </motion.div>
       </section>
