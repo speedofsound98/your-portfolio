@@ -55,7 +55,7 @@ export default function Home() {
           <h2 className="text-2xl font-serif mb-4">Experience</h2>
           <ul className="space-y-4 text-gray-300">
             <li>
-              <strong>WhiteHat Security</strong> – DAST specialist Intern(Aug-Oct 2016)
+              <strong>WhiteHat Security</strong> – DAST specialist Intern (Aug-Oct 2016)
             </li>
             <li>
               <strong>Independent</strong> – Coding Projects (2025 - Present)
