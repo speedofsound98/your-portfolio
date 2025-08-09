@@ -16,7 +16,7 @@ const ebGaramond = EB_Garamond({
 
 export const metadata: Metadata = {
   title: "Your Name – Portfolio",
-  description: "Creative Producer, Strategist, Writer",
+  description: "Creative Producer, Strategist, Coder",
 };
 
 export default function RootLayout({

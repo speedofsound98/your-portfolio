@@ -22,7 +22,7 @@ export default function Home() {
           transition={{ duration: 1 }}
         >
           <h1 className="text-4xl md:text-6xl font-serif tracking-tight mb-4">
-            Creative Producer. Strategist. Writer.
+            Creative Producer. Strategist. Coder.
           </h1>
         </motion.div>
       </section>
@@ -55,10 +55,10 @@ export default function Home() {
           <h2 className="text-2xl font-serif mb-4">Experience</h2>
           <ul className="space-y-4 text-gray-300">
             <li>
-              <strong>Company A</strong> – Creative Lead (2021–Present)
+              <strong>WhiteHat Security</strong> – DAST specialist Intern(Aug-Oct 2016)
             </li>
             <li>
-              <strong>Company B</strong> – Content Strategist (2019–2021)
+              <strong>Independent</strong> – Coding Projects (2025 - Present)
             </li>
           </ul>
         </motion.div>
